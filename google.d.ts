@@ -28,7 +28,9 @@ declare global {
                 };
                 Action: {
                     PICKED: string;
+                    CANCEL: string;
                 };
+
             };
         };
     }
